@@ -1,3 +1,7 @@
 1. Fomato de data no SQL segue o padrão americano:
 ano/mes/dia - separados por barras.
 
+2. Dar nomes a colunas no SQL Server: Adicionar um AS seguido do nome da tabela entre aspas duplas.
+
+SELECT TOP 10  SUM(linetotal) AS "Soma"
+FROM Sales.SalesOrderDetail
