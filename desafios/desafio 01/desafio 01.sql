@@ -4,11 +4,11 @@ A equipe de marketing precisa fazer uma pesquisa sobre os nomes mais comuns dos 
 
 <-->
 
-Utilizando a query SELECT * FROM person.Person encontrei que as colunas de nome e sobrenome se chamam Fist Name e Last Name.
+Utilizando a query SELECT * FROM person.Person encontrei que as colunas de nome e sobrenome se chamam FistName e LastName.
 
 Então rodei a query:
 
-SELECT FirstName, Last Name
+SELECT FirstName,LastName
 FROM person.Person;
 
 SUCESSO! (ver imagem 1).

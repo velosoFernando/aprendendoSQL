@@ -20,8 +20,10 @@ Os comandos no SQL estão sempre em maiúsculo para facilitar o entendimento da 
 2. Abra Database;
 3. Clique com o mouse direito em cima do banco de dados e clique na opção 'NEW QUERY' (nesse caso estaremos trabalhando com todas as tabelas);
 4. Escreva a Query (utilizando ; no final);
+
 ``SELECT * 
 FROM Person.Person;``
+
 5. Clique em Execute;
 6. Visualize os dados das tabelas encontradas (ver imagem 2).
 
