@@ -1,0 +1,15 @@
+DESAFIO 01
+
+A equipe de marketing precisa fazer uma pesquisa sobre os nomes mais comuns dos clientes, então essa equipe precisa do NOME e SOBRENOME de todos os clientes que estão cadastrados no sistema.
+
+<-->
+
+Utilizando a query SELECT * FROM person.Person encontrei que as colunas de nome e sobrenome se chamam Fist Name e Last Name.
+
+Então rodei a query:
+
+SELECT FirstName, Last Name
+FROM person.Person;
+
+SUCESSO! (ver imagem 1).
+

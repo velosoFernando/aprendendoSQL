@@ -1,0 +1,36 @@
+**SELECT**
+
+O comando select busca uma quantidade específica de informações dentro das tabelas.
+
+Nesse caso estou selecionando (SELECT) as colunas 1 e 2 da (FROM) tabela.
+
+``SELECT coluna1, coluna2 
+FROM tabela``
+
+Outro comando, para selecionar todas as colunas da tabela, é o asterisco. 
+
+``SELECT * 
+FROM tabela``
+
+Os comandos no SQL estão sempre em maiúsculo para facilitar o entendimento da busca. 
+
+[PARA REALIZAR UMA PESQUISA]
+
+1. Abra o SSMS;
+2. Abra Database;
+3. Clique com o mouse direito em cima do banco de dados e clique na opção 'NEW QUERY' (nesse caso estaremos trabalhando com todas as tabelas);
+4. Escreva a Query (utilizando ; no final);
+``SELECT * 
+FROM Person.Person;``
+5. Clique em Execute;
+6. Visualize os dados das tabelas encontradas (ver imagem 2).
+
+[FILTRANDO A INFORMAÇÃO]
+
+Basta adicionar mais informações através do SELECT. Nesse caso se faz necessário em duas querys, selecionar com o mouse aquela desejada e então clicar em Execute (ver imagem 3). Assim, evitando conflitos.
+
+
+
+
+
+
