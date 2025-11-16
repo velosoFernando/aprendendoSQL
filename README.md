@@ -1,11 +1,14 @@
 # 🧠💾 Explorando SQL na Prática — Meu Repositório de Estudos!
 
 <div align="center">
-![Badge SQL](https://img.shields.io/badge/SQL-Querying-4479A1?logo=sqlite&logoColor=white)
-![Badge SQLServer](https://img.shields.io/badge/SQL%20Server-AdventureWorks2017-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Badge YouTube](https://img.shields.io/badge/YouTube-Curso-FF0000?logo=youtube&logoColor=white)
-![Badge GitHub](https://img.shields.io/badge/GitHub-Repository-000000?logo=github&logoColor=white)
+
+![Badge SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
+![Badge SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Badge YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)
+![Badge GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFsZjc2cWp1ZDBpZXRzZ2E5YW1wZ3NjYWpwM2x3aGJzMzNuaGd0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="450px" />
